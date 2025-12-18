@@ -42,7 +42,12 @@
 ---
 ### 🌍 Connect with Me
 
-[![Sneha15Singh](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sneha15singh/) &nbsp; ✉️ **sneha2000kakri@gmail.com**
+🔗 **LinkedIn**  
+[![LinkedIn](https://img.shields.io/badge/Sneha15Singh-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/sneha15singh/)
+
+✉️ **Email**  
+[![Email](https://img.shields.io/badge/sneha2000kakri@gmail.com-Email-red?logo=gmail&logoColor=white&style=flat)](mailto:sneha2000kakri@gmail.com)
+
 
 ---
 ### 🎧 Go-to work song
