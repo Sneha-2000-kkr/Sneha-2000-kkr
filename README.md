@@ -36,7 +36,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Sneha-2000-kkr&style=flat-square&label=Profile+Views)
 
-![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sneha-2000-kkr&show_icons=true&theme=tokyonight&count_private=true)  
+<!-- ![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sneha-2000-kkr&show_icons=true&theme=tokyonight&count_private=true)  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-2000-kkr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
